@@ -13,6 +13,8 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello World!!!" << endl;
 	int i;
+	int j;
+	cout<<"hello"<<endl;
 	return 0;
 
 
